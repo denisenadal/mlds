@@ -1,0 +1,16 @@
+{
+  "name": "mlds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ELEVENTY_ENV=development npx @11ty/eleventy --serve  --incremental",
+    "build": "ELEVENTY_ENV=production eleventy"
+  },
+  "keywords": [],
+  "author": "Denise Nadal",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}

@@ -1,0 +1,8 @@
+- [] build index html page
+- [] host on a live url
+- [] add to public git repo
+- [] documentation:
+  - build process
+  - deploy process
+  - MLDS requirements: FERPA, WCAG
+  - powerBI iframe integration

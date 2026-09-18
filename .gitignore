@@ -1,0 +1,19 @@
+# Ignore installed npm modules
+node_modules/
+
+#Ignore secrets 
+.env
+
+# Ignore folders from source code editors
+.vscode
+.idea
+
+# Ignore build output when doing manual tests
+_site/
+
+# Don’t check-in types
+types/
+
+# Ignore test files
+cache/
+test/
