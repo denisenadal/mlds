@@ -1,0 +1,833 @@
+<biDVTGraph>
+	<graphXML>
+		<root version="1.0">
+			<graph w="398" h="488" graphType="LINE_VERT_ABS" sel="s" zoomAndScroll="ZS_DELAYED_SCROLL" aI="NONE" aDi="auto" se="c">
+				<md y1Vals="0.0,0.0,1.0" y1Coords="375.2335,375.2335,9.983499999999992" />
+				<data series="Statewide~;LSS~;School" sc="#999999,#999999,#999999" groups="2007-08~;2008-09~;2009-10~;2010-11~;2011-12~;2012-13~;2013-14~;2014-15~;2015-16~;2016-17~;2017-18~;2018-19~;2019-20~;2020-21~;2021-22~;2022-23~;2023-24" YVF="NaN~;.~;,~;K~;M~;B~;T~;Q~;~;~;-~;~;3~;-1~;-1~;1~;99~;0~;t~;�~;1.0~;f~;" Y="0.37,0.37,0.36,0.35000000000000003,0.33,0.31,0.31,0.3,0.37,0.32,0.33,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.44,0.36,0.37,0.38,0.35000000000000003,0.35000000000000003,0.4,0.41000000000000003,0.41000000000000003,0.35000000000000003,0.0,0.0,0.0,0.0,0.0,0.0,0.35000000000000003,0.42,0.39,0.35000000000000003,0.27,0.36,0.32,0.43,0.34,0.34,0.38,0.0,0.0,0.0,0.0,0.0,0.0" />
+				<f id="0" font="10 #000000 &#39;sans-serif&#39; b" />
+				<ttf fid="0" />
+				<r p="0,0,398,488" go="f" O="CB" G="" S="" ft="ftC" fc="#00ffffff" tt="f" sh="" />
+				<r p="41,9,342,366" O="F" fc="" />
+				<f id="1" font="11 #000000 &#39;Arial&#39; b" />
+				<t p="134,442,155" O="O1Title" fid="1" a="0.0" j="c">
+					High School Graduation Year
+				</t>
+				<t p="22,406,40" O="O1L" G="0" a="45.0" cx="42" cy="402" Z="-3,0">
+					2007-08
+				</t>
+				<t p="43,406,40" G="1" cx="63" cy="402" Z="-3,1">
+					2008-09
+				</t>
+				<t p="64,406,40" G="2" cx="84" cy="402" Z="-3,2">
+					2009-10
+				</t>
+				<t p="86,406,40" G="3" cx="106" cy="402" Z="-3,3">
+					2010-11
+				</t>
+				<t p="107,406,40" G="4" cx="127" cy="402" Z="-3,4">
+					2011-12
+				</t>
+				<t p="128,406,40" G="5" cx="148" cy="402" Z="-3,5">
+					2012-13
+				</t>
+				<t p="150,406,40" G="6" cx="170" cy="402" Z="-3,6">
+					2013-14
+				</t>
+				<t p="171,406,40" G="7" cx="191" cy="402" Z="-3,7">
+					2014-15
+				</t>
+				<t p="192,406,40" G="8" cx="212" cy="402" Z="-3,8">
+					2015-16
+				</t>
+				<t p="214,406,40" G="9" cx="234" cy="402" Z="-3,9">
+					2016-17
+				</t>
+				<t p="235,406,40" G="10" cx="255" cy="402" Z="-3,10">
+					2017-18
+				</t>
+				<t p="256,406,40" G="11" cx="276" cy="402" Z="-3,11">
+					2018-19
+				</t>
+				<t p="278,406,40" G="12" cx="298" cy="402" Z="-3,12">
+					2019-20
+				</t>
+				<t p="299,406,40" G="13" cx="319" cy="402" Z="-3,13">
+					2020-21
+				</t>
+				<t p="321,406,40" G="14" cx="341" cy="402" Z="-3,14">
+					2021-22
+				</t>
+				<t p="342,406,40" G="15" cx="362" cy="402" Z="-3,15">
+					2022-23
+				</t>
+				<t p="363,406,40" G="16" cx="383" cy="402" Z="-3,16">
+					2023-24
+				</t>
+				<t p="22,379,15" O="Y1L" G="" M="0" a="0.0" j="r">
+					0%
+				</t>
+				<t p="16,306,21" M="1">
+					20%
+				</t>
+				<t p="16,233,21" M="2">
+					40%
+				</t>
+				<t p="16,160,21" M="3">
+					60%
+				</t>
+				<t p="16,87,21" M="4">
+					80%
+				</t>
+				<t p="10,13,27" M="5">
+					100%
+				</t>
+				<l p="41,375,383,375" O="O1AxisLine" c="#9e9e9e" />
+				<l p="41,375,41,10" O="Y1AxisLine" />
+				<l p="41,375,38,375" O="Y1MG" M="9997" c="#c4ced7" />
+				<l p="41,302,38,302" M="9998" />
+				<l p="41,229,38,229" M="9999" />
+				<l p="41,156,38,156" M="10000" />
+				<l p="41,83,38,83" M="10001" />
+				<l p="41,10,38,10" M="10002" />
+				<clipPath id="plotAreaClip">
+					<r p="41,8,342,369" />
+				</clipPath>
+				<pl points="41.0,240.0 62.0,240.0 84.0,244.0 105.0,247.0 126.0,255.0 148.0,262.0 169.0,262.0 191.0,266.0 212.0,240.0 233.0,258.0 255.0,255.0" c="#ad3741" O="LR" G="(0-10)" S="0" lw="3" clip="(#plotAreaClip)" />
+				<pl points="41.0,211.0 62.0,215.0 84.0,244.0 105.0,240.0 126.0,236.0 148.0,247.0 169.0,247.0 191.0,229.0 212.0,225.0 233.0,225.0 255.0,247.0" c="#364e6a" S="1" lw="3" ls="LS_DASH" clip="(#plotAreaClip)" />
+				<pl points="41.0,247.0 62.0,222.0 84.0,233.0 105.0,247.0 126.0,277.0 148.0,244.0 169.0,258.0 191.0,218.0 212.0,251.0 233.0,251.0 255.0,236.0" c="#a4cba2" S="2" lw="3" ls="LS_DOTTED" clip="(#plotAreaClip)" />
+				<m p="38,237" O="LM" G="0" S="0" mt="c,6" fc="#ad3741" t="High School Graduation Year: 2007-08
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 37%" Z="0,0" />
+				<m p="59,237" G="1" t="High School Graduation Year: 2008-09
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 37%" Z="0,1" />
+				<m p="81,241" G="2" t="High School Graduation Year: 2009-10
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 36%" Z="0,2" />
+				<m p="102,244" G="3" t="High School Graduation Year: 2010-11
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 35%" Z="0,3" />
+				<m p="123,252" G="4" t="High School Graduation Year: 2011-12
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 33%" Z="0,4" />
+				<m p="145,259" G="5" t="High School Graduation Year: 2012-13
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 31%" Z="0,5" />
+				<m p="166,259" G="6" t="High School Graduation Year: 2013-14
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 31%" Z="0,6" />
+				<m p="188,263" G="7" t="High School Graduation Year: 2014-15
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 30%" Z="0,7" />
+				<m p="209,237" G="8" t="High School Graduation Year: 2015-16
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 37%" Z="0,8" />
+				<m p="230,255" G="9" t="High School Graduation Year: 2016-17
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 32%" Z="0,9" />
+				<m p="252,252" G="10" t="High School Graduation Year: 2017-18
+Sub Group Detail: Statewide
+No College Degree by Age 25 : 33%" Z="0,10" />
+				<m p="38,208" G="0" S="1" mt="s,6" fc="#364e6a" t="High School Graduation Year: 2007-08
+Sub Group Detail: LSS
+No College Degree by Age 25 : 45%" Z="1,0" />
+				<m p="59,212" G="1" t="High School Graduation Year: 2008-09
+Sub Group Detail: LSS
+No College Degree by Age 25 : 44%" Z="1,1" />
+				<m p="81,241" G="2" t="High School Graduation Year: 2009-10
+Sub Group Detail: LSS
+No College Degree by Age 25 : 36%" Z="1,2" />
+				<m p="102,237" G="3" t="High School Graduation Year: 2010-11
+Sub Group Detail: LSS
+No College Degree by Age 25 : 37%" Z="1,3" />
+				<m p="123,233" G="4" t="High School Graduation Year: 2011-12
+Sub Group Detail: LSS
+No College Degree by Age 25 : 38%" Z="1,4" />
+				<m p="145,244" G="5" t="High School Graduation Year: 2012-13
+Sub Group Detail: LSS
+No College Degree by Age 25 : 35%" Z="1,5" />
+				<m p="166,244" G="6" t="High School Graduation Year: 2013-14
+Sub Group Detail: LSS
+No College Degree by Age 25 : 35%" Z="1,6" />
+				<m p="188,226" G="7" t="High School Graduation Year: 2014-15
+Sub Group Detail: LSS
+No College Degree by Age 25 : 40%" Z="1,7" />
+				<m p="209,222" G="8" t="High School Graduation Year: 2015-16
+Sub Group Detail: LSS
+No College Degree by Age 25 : 41%" Z="1,8" />
+				<m p="230,222" G="9" t="High School Graduation Year: 2016-17
+Sub Group Detail: LSS
+No College Degree by Age 25 : 41%" Z="1,9" />
+				<m p="252,244" G="10" t="High School Graduation Year: 2017-18
+Sub Group Detail: LSS
+No College Degree by Age 25 : 35%" Z="1,10" />
+				<m p="38,244" G="0" S="2" mt="t,7" fc="#a4cba2" t="High School Graduation Year: 2007-08
+Sub Group Detail: School
+No College Degree by Age 25 : 35%" Z="2,0" />
+				<m p="59,219" G="1" t="High School Graduation Year: 2008-09
+Sub Group Detail: School
+No College Degree by Age 25 : 42%" Z="2,1" />
+				<m p="81,230" G="2" t="High School Graduation Year: 2009-10
+Sub Group Detail: School
+No College Degree by Age 25 : 39%" Z="2,2" />
+				<m p="102,244" G="3" t="High School Graduation Year: 2010-11
+Sub Group Detail: School
+No College Degree by Age 25 : 35%" Z="2,3" />
+				<m p="123,274" G="4" t="High School Graduation Year: 2011-12
+Sub Group Detail: School
+No College Degree by Age 25 : 27%" Z="2,4" />
+				<m p="145,241" G="5" t="High School Graduation Year: 2012-13
+Sub Group Detail: School
+No College Degree by Age 25 : 36%" Z="2,5" />
+				<m p="166,255" G="6" t="High School Graduation Year: 2013-14
+Sub Group Detail: School
+No College Degree by Age 25 : 32%" Z="2,6" />
+				<m p="188,215" G="7" t="High School Graduation Year: 2014-15
+Sub Group Detail: School
+No College Degree by Age 25 : 43%" Z="2,7" />
+				<m p="209,248" G="8" t="High School Graduation Year: 2015-16
+Sub Group Detail: School
+No College Degree by Age 25 : 34%" Z="2,8" />
+				<m p="230,248" G="9" t="High School Graduation Year: 2016-17
+Sub Group Detail: School
+No College Degree by Age 25 : 34%" Z="2,9" />
+				<m p="252,233" G="10" t="High School Graduation Year: 2017-18
+Sub Group Detail: School
+No College Degree by Age 25 : 38%" Z="2,10" />
+				<r p="91,462,216,15" O="LA" G="" S="" fc="" bc="#00ffffff" />
+				<l p="94,470,103,470" c="#ad3741" O="LeM" S="0" lw="2" Z="0,-3" />
+				<m p="96,467" mt="c,6" fc="#ad3741" Z="0,-3" />
+				<l p="164,470,173,470" c="#364e6a" S="1" lw="2" ls="LS_DASH" Z="1,-3" />
+				<m p="166,467" mt="s,6" fc="#364e6a" Z="1,-3" />
+				<l p="234,470,243,470" c="#a4cba2" S="2" lw="2" ls="LS_DOTTED" Z="2,-3" />
+				<m p="236,467" mt="t,7" fc="#a4cba2" Z="2,-3" />
+				<t p="106,473,55" O="LT" S="0" j="l" Z="0,-3">
+					Statewide
+				</t>
+				<t p="176,473,21" S="1" Z="1,-3">
+					LSS
+				</t>
+				<t p="246,473,37" S="2" Z="2,-3">
+					School
+				</t>
+			</graph>
+		</root>
+	</graphXML>
+	<graphStateXML>
+		<biDataState page="0">
+			0;0;0.0;100.0;10.0;80.0;0.0;1.0
+		</biDataState>
+		<biGraphState>
+			<?xml version="1.0"?>
+			<Graph version="" name="sawc_292xa50" animationIndicators="NONE" animationOnDisplay="auto" visualEffects="NONE" depthRadius="0" pieDepth="0" markerDisplayed="true" markerShapeInLegend="MSIL_TRUE" pieTilt="0" graphType="LINE_VERT_ABS" noDataErrorText="Insufficient number of measures. This graph requires at least one measure." timeAxisType="TAT_OFF">
+				<ImageSize width="398" height="488" />
+				<LegendArea automaticPlacement="AP_NEVER" position="LAP_BOTTOM" borderColor="#00ffffff" borderTransparent="false" fillTransparent="true" visible="true" />
+				<LegendText>
+					<GraphFont name="Arial" size="11" fontColor="#000000" bold="true" italic="false" underline="false" />
+				</LegendText>
+				<MarkerText visible="false" />
+				<O1MajorTick tickStyle="GS_NONE" />
+				<O1TickLabel textRotation="45" automaticRotation="AR_NO_ROTATE">
+					<GraphFont name="Arial" size="11" fontColor="#000000" bold="true" italic="false" underline="false" />
+				</O1TickLabel>
+				<O1Title text="High School Graduation Year" visible="true">
+					<GraphFont name="Arial" size="11" fontColor="#000000" bold="true" italic="false" underline="false" />
+				</O1Title>
+				<SeriesItems defaultMarkerColor="#00ffffff">
+					<Series id="0" markerShape="MS_CIRCLE" color="#999999" markerColor="#999999" lineStyle="LS_SOLID" />
+					<Series id="1" markerShape="MS_SQUARE" color="#999999" markerColor="#999999" lineStyle="LS_DASH" />
+					<Series id="2" markerShape="MS_TRIANGLE_UP" color="#999999" markerColor="#999999" lineStyle="LS_DOTTED" />
+					<Series id="3" markerShape="MS_CIRCLE" color="#999999" markerColor="#999999" lineStyle="LS_SOLID" />
+					<Series id="4" markerShape="MS_SQUARE" color="#999999" markerColor="#999999" lineStyle="LS_DASH" />
+					<Series id="5" markerShape="MS_TRIANGLE_UP" color="#999999" markerColor="#999999" lineStyle="LS_DOTTED" />
+					<Series id="6" markerShape="MS_CIRCLE" color="#999999" markerColor="#999999" lineStyle="LS_SOLID" />
+					<Series id="7" markerShape="MS_SQUARE" color="#999999" markerColor="#999999" lineStyle="LS_DASH" />
+					<Series id="8" markerShape="MS_TRIANGLE_UP" color="#999999" markerColor="#999999" lineStyle="LS_DOTTED" />
+					<Series id="9" markerShape="MS_CIRCLE" color="#999999" markerColor="#999999" lineStyle="LS_SOLID" />
+					<Series id="10" markerShape="MS_SQUARE" color="#999999" markerColor="#999999" lineStyle="LS_DASH" />
+					<Series id="11" markerShape="MS_TRIANGLE_UP" color="#999999" markerColor="#999999" lineStyle="LS_DOTTED" />
+				</SeriesItems>
+				<SliceLabel>
+					<ViewFormat decimalDigit="2" />
+				</SliceLabel>
+				<StyleManager>
+					<Bundle>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ad3741" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Disadvantaged, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ad3741" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Asian Alone, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ad3741" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="USM, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ad3741" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Asian Alone, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#5f1e24" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Disadvantaged, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#5f1e24" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="USM, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#5f1e24" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Asian Alone, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ca7f86" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Disadvantaged, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ca7f86" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="USM, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ca7f86" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Black Alone, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#70ae6e" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="CTE, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#70ae6e" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Male, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#70ae6e" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Black Alone, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#335032" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="CTE, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#335032" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Male, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#335032" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Black Alone, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a4cba2" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="CTE, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a4cba2" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Male, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a4cba2" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a4cba2" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Hispanic, Any Race, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#547aa5" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Not Disadvantaged, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#547aa5" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="USM/CTE, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#547aa5" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Hispanic, Any Race, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#364e6a" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#364e6a" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Not Disadvantaged, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#364e6a" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="USM/CTE, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#364e6a" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Hispanic, Any Race, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a1b6cd" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Not Disadvantaged, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a1b6cd" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="USM/CTE, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#a1b6cd" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Female, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#e08e45" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Other, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#e08e45" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="White Alone, Statewide" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#e08e45" markerVisible="true" markerShape="MS_CIRCLE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Female, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#b87539" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Other, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#b87539" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="White Alone, LSS" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#b87539" markerVisible="true" markerShape="MS_SQUARE" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Female, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ebb788" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="Other, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ebb788" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+						<DiscRule>
+							<Disc>
+								<QDRDisc QDRName="dvt-cube:QDR" setOp="SUPERSET">
+									<QDR xmlns:dvt-cube="www.oracle.com/technology/">
+										<DimMemPair dim="Sub Group Detail">
+											<QDRMem mem="White Alone, School" />
+										</DimMemPair>
+									</QDR>
+								</QDRDisc>
+							</Disc>
+							<Mergeable>
+								<GraphStyle fillColor="#ebb788" markerVisible="true" markerShape="MS_TRIANGLE_UP" effect="SE_GRADIENT" fillColorUsed="true" markerVisibleUsed="true" markerShapeUsed="true" effectUsed="true" />
+							</Mergeable>
+						</DiscRule>
+					</Bundle>
+				</StyleManager>
+				<Title>
+					<GraphFont name="Arial" size="13" bold="true" italic="false" underline="false" />
+				</Title>
+				<X1Axis visible="false" axisAutoScaledFromZero="true">
+					<ViewFormat scaleDownThousands="K" scaleDownMillions="M" scaleDownBillions="B" scaleDownTrillions="T" scaleDownThousandsUsed="true" scaleDownMillionsUsed="true" scaleDownBillionsUsed="true" scaleDownTrillionsUsed="true" />
+				</X1Axis>
+				<X1TickLabel visible="false">
+					<GraphFont name="Arial" size="11" fontColor="#000000" bold="true" italic="false" underline="false" />
+				</X1TickLabel>
+				<Y1Axis visible="true" majorTickStepAutomatic="false" majorTickStep="0.2">
+					<ViewFormat numberType="NUMTYPE_PERCENT" thousandSeparator="," decimalSeparator="." decimalDigit="0" scaleFactor="SCALEFACTOR_NONE" scaleDownThousands="K" scaleDownMillions="M" scaleDownBillions="B" scaleDownTrillions="T" negPctFmt="NEG_PCTFMT_NEG_NUM_PCT" numberTypeUsed="true" thousandSeparatorUsed="true" decimalSeparatorUsed="true" decimalDigitUsed="true" scaleFactorUsed="true" scaleDownThousandsUsed="true" scaleDownMillionsUsed="true" scaleDownBillionsUsed="true" scaleDownTrillionsUsed="true" negPctFmtUsed="true" />
+				</Y1Axis>
+				<Y1MajorTick tickStyle="GS_OUT" />
+				<Y1MinorTick tickStyle="GS_NONE" />
+				<Y1TickLabel textRotation="TR_HORIZ" visible="true">
+					<GraphFont name="Arial" size="11" fontColor="#000000" bold="true" italic="false" underline="false" />
+				</Y1TickLabel>
+				<Y1Title text="No College Degree by Age 25 " visible="false" />
+				<Y2Axis visible="false" />
+				<Y2TickLabel visible="false" />
+			</Graph>
+		</biGraphState>
+	</graphStateXML>
+	<graphProperties>
+		<sliderLabelsXML>
+		</sliderLabelsXML>
+	</graphProperties>
+	<biGraphSize>
+		<canvasSize update="false" width="400" height="500" borderColor="null" />
+	</biGraphSize>
+</biDVTGraph>

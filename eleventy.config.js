@@ -1,4 +1,4 @@
-require('dotenv').config()
+// require('dotenv').config()
 export default async function (eleventyConfig) {
     // setup server config & browersync
     eleventyConfig.addPassthroughCopy("src/assets")
