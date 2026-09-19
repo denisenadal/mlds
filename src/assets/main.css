@@ -56,3 +56,12 @@ footer {
 	background: var(--color-fg);
 	color: var(--color-bg)
 }
+footer a {
+	color: var(--color-secondary)
+}
+footer a:active, footer a:hover, footer a:focus {
+	border-color: var(--color-secondary);
+}
+footer h2 {
+	font-size: 18px;
+}
