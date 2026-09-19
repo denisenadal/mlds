@@ -23,15 +23,44 @@
     <meta content="{{ desc | strip_html}}" />
     <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
-    {{- headerScripts -}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href='/assets/grid.css'>
     <link rel="stylesheet" href='/assets/main.css'>
 </head>
 
 <body>
-    {{content}}
+    <header>
+        <div class="container row">
+            <div class="logo col-50">
+                <h1 class="m-0">Denise's Test Page</h1>
+            </div>
+            <nav class="row col-50 flex-end">
+                <a href="#ex-01" class="navbar-item">Example 1</a>
+                <a href="#ex-02" class="navbar-item">Example 2</a>
+                <a href="#ex-03" class="navbar-item">Example 3</a>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            {{content}}
+        </div>
+    </main>
+    <footer>
+        <div class="container row">
+            <div class="col-33">
+                <p>Denise's COntact Info here</p>
+            </div>
+            <div class="col-33"></div>
+            <div class="col-33 flex-end text-right">
+                <p>links to docs</p>
+                <p>copyrght goes here</p>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
