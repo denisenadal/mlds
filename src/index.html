@@ -5,7 +5,42 @@ metaimage:
 layout: base.html
 headerScripts:
 ---
-<h1>hello!</h1>
-<iframe title="Embedded Content" width="671" height="970"
-    src="https://app.powerbigov.us/view?r=eyJrIjoiNTM3YmRkNTMtMDVjMS00ZWE3LWIzMjQtNDA1MGE1MTIzMDdjIiwidCI6IjYwYWZlOWUyLTQ5Y2QtNDliMS04ODUxLTY0ZGYwMjc2YTJlOCJ9&amp;pageName=ReportSection302ac433b77c2dbcb31a"
-    frameborder="0" allowfullscreen="true"></iframe>
+<section>
+    <div class="container">
+        <h2 id="ex-01">Example 1</h2>
+        <p>Example of an existing MLDS report embedded in a webpage</p>
+        <iframe id="iframe-01" width="671" height="970"
+            src="https://app.powerbigov.us/view?r=eyJrIjoiNTM3YmRkNTMtMDVjMS00ZWE3LWIzMjQtNDA1MGE1MTIzMDdjIiwidCI6IjYwYWZlOWUyLTQ5Y2QtNDliMS04ODUxLTY0ZGYwMjc2YTJlOCJ9&amp;pageName=ReportSection302ac433b77c2dbcb31a"
+            frameborder="0" allowfullscreen="true"></iframe>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <h2 id="ex-02">Example 2</h2>
+        <p>Example of Power BI chart created by Denise embedded in a page. <br>Data sourced from the <a
+                href="https://collegescorecard.ed.gov/">Department of Education College Scorecard</a></p>
+
+        <iframe id="iframe-02" width="1920" height="1080"
+            src="https://app.powerbi.com/view?r=eyJrIjoiZjQ1NDA2YjMtNzZjNy00YTQ4LWI0NjAtYWY2ZDExYzA1MzNhIiwidCI6IjgwMDI5MDZhLWIyMDItNDc4YS1hMjc0LWMwMGU0MmU1YWY4ZCJ9"
+            frameborder="0" allowFullScreen="true"></iframe>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <h2 id="ex-03">Example 3</h2>
+        <p>Example of Power BI charts in columns. Charts created by Denise <br>Data sourced from the <a
+                href="https://collegescorecard.ed.gov/">Department of Education College Scorecard</a></p>
+        <div class="row">
+            <div class="col-50">
+                <iframe id="iframe-03a"
+                    src="https://app.powerbi.com/view?r=eyJrIjoiODYyODg1OGUtNzk3Zi00MjBhLWI5OTUtMTg2YjMyNjRkODFjIiwidCI6IjgwMDI5MDZhLWIyMDItNDc4YS1hMjc0LWMwMGU0MmU1YWY4ZCJ9"
+                    width="1024" height="828" frameborder="0"></iframe>
+            </div>
+            <div class="col-50">
+                <iframe id="iframe-03b" width="1080" height="1080"
+                    src="https://app.powerbi.com/view?r=eyJrIjoiMDllYjc4MmMtNWUxZi00OThlLWI3ZmQtNGY4NzRlMjFmZDIyIiwidCI6IjgwMDI5MDZhLWIyMDItNDc4YS1hMjc0LWMwMGU0MmU1YWY4ZCJ9"
+                    frameborder="0" allowFullScreen="true"></iframe>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,30 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{title | strip_html}} </title>
+    <meta name="description" content="{{pageDesc | strip_html}}">
+
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="keywords" content="{%- if keywords -%}{{keywords}}{%-else-%}{{site.keywords}}{%-endif-%}" />
+    <meta name="description" content="{{ desc | strip_html}}" />
+    <meta property="og:type" content="website" />
+
+    <meta property="og:url" content="{{site.baseURL}}{{page.url}}" />
+    <meta property="og:title" content="{{title | strip_html}}" />
+    <meta property="og:image" content="{{ metaimage}}" />
+    <meta property="og:description" content="{{desc | strip_html }}" />
+    <link rel="canonical" href="{{site.baseURL}}{{page.url}}" />
+    <meta content="{{ desc | strip_html}}" />
+    <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href='/assets/grid.css'>
+    <link rel="stylesheet" href='/assets/main.css'>
+</head>

@@ -1,11 +1,13 @@
-:root{
-	--color-bg:#fff;
-	--color-fg:#000;
-	--color-primary:#C40E3D;
+:root {
+	--color-bg: #fff;
+	--color-fg: #000;
+	--color-primary: #C40E3D;
 	--color-primary-contrast: #fff;
-	--color-secondary:#FEC232;
-  }
-html,body {
+	--color-secondary: #FEC232;
+}
+
+html,
+body {
 	margin: 0;
 	padding: 0;
 	background: var(--color-bg);
@@ -14,41 +16,52 @@ html,body {
 	font-optical-sizing: auto;
 	font-weight: 400;
 	font-style: normal;
+	scroll-behavior: smooth;
 }
+
 header {
-	background:var(--color-primary);
+	background: var(--color-primary);
 }
+
 a {
 	font-weight: 600;
 	color: var(--color-primary);
 	text-decoration: none;
-	border-bottom: .1em solid transparent 
+	border-bottom: .1em solid transparent
 }
 
-a:hover, a:focus, a:active {
+a:hover,
+a:focus,
+a:active {
 	border-color: var(--color-primary);
 }
 
-button, .btn{
+button,
+.btn {
 	background: var(--color-primary);
 	color: var(--color-primary-contrast);
 	border-radius: 100%;
 	border: none;
 	box-shadow: none;
 	padding: .5rem 1rem;
-} 
-nav.row{
-	gap:2rem
 }
 
- nav a {
+nav.row {
+	gap: 2rem
+}
+
+nav a {
 	display: block;
 	padding: .5rem 0;
-} 
-nav a:hover, nav a:focus, nav a:active {
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
 	border-color: var(--color-primary-contrast);
-} 
-header *{
+}
+
+header * {
 	color: var(--color-primary-contrast)
 }
 
@@ -56,12 +69,58 @@ footer {
 	background: var(--color-fg);
 	color: var(--color-bg)
 }
+
 footer a {
 	color: var(--color-secondary)
 }
-footer a:active, footer a:hover, footer a:focus {
+
+footer a:active,
+footer a:hover,
+footer a:focus {
 	border-color: var(--color-secondary);
 }
+
 footer h2 {
 	font-size: 18px;
+}
+
+footer svg {
+	width: 16px;
+	margin: 6px 6px -3px;
+}
+
+@media(max-width:420px) {
+	footer .col-33.flex-end {
+		text-align: left;
+		justify-content: flex-start;
+		align-items: flex-start;
+	}
+}
+
+section:nth-child(even) {
+	background: rgb(242, 241, 245);
+}
+
+iframe[id^="iframe"] {
+	width: 100%;
+	height: auto;
+}
+
+#iframe-01 {
+	aspect-ratio: 671/970;
+	max-width: 671px;
+}
+
+#iframe-02 {
+	aspect-ratio: 1750/1080;
+}
+
+#iframe-03a {
+	aspect-ratio: 960/828;
+	max-width: 1024px;
+}
+
+#iframe-03b {
+	aspect-ratio: 1080/1080;
+	max-width: 1024px;
 }
