@@ -1,8 +1,8 @@
-- [] build index html page
-- [] host on a live url
-- [] add to public git repo
+- [x] build index html page
+- [x] host on a live url
+- [x] add to public git repo
 - [] documentation:
-  - build process
-  - deploy process
-  - MLDS requirements: FERPA, WCAG
-  - powerBI iframe integration
+  - Xbuild process
+  - Xdeploy process
+  - XMLDS requirements: XFERPA, XWCAG
+  - XpowerBI iframe integration

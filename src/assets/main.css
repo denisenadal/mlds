@@ -12,7 +12,8 @@ body {
 	padding: 0;
 	background: var(--color-bg);
 	color: var(--color-fg);
-	font-family: "Montserrat", sans-serif;
+	font-display: swap;
+	font-family: "Montserrat", Corbel, sans-serif;
 	font-optical-sizing: auto;
 	font-weight: 400;
 	font-style: normal;
@@ -115,12 +116,8 @@ iframe[id^="iframe"] {
 	aspect-ratio: 1750/1080;
 }
 
+#iframe-03b,
 #iframe-03a {
-	aspect-ratio: 960/828;
-	max-width: 1024px;
-}
-
-#iframe-03b {
 	aspect-ratio: 1080/1080;
 	max-width: 1024px;
 }
